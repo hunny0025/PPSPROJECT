@@ -1,2 +1,2 @@
-# PPSPROJECT
+# PPSPRACTICAL
 C programming codes
